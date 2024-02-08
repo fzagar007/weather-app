@@ -1,6 +1,6 @@
 # Weather App
 
-#### [DEMO LINK HERE](https://weather-app-112.netlify.app/)
+ [DEMO LINK HERE](https://weather-app-112.netlify.app/)
 
 This is Weather app project for showing current weather, weather for next 4 days and city sights in searched city
 
